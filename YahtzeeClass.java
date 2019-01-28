@@ -7,6 +7,7 @@ public class YahtzeeClass {
 
 	}
 
+// checking git status
 //start scoring
 //hand need to be sorted to check for straights
 
